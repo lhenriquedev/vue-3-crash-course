@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "top 5 CSS tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "tags": [
+        "css",
+        "webdev",
+        "coding"
+      ]
+    },
+    {
+      "title": "Vue 3",
+      "body": "Vue 3",
+      "tags": [
+        "vue"
+      ],
+      "id": 3
+    },
+    {
+      "title": "Vue 3 and script setup",
+      "body": "SCript setup",
+      "tags": [
+        "vue3"
+      ],
+      "id": 4
+    },
+    {
+      "title": "CSS tricks",
+      "body": "CSS",
+      "tags": [
+        "css",
+        "html5",
+        "vue"
+      ],
+      "id": 5
+    }
+  ]
+}

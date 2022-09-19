@@ -1,0 +1,16 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Learn Vue 3",
+      "details": "Learn vue 3 in Udemy",
+      "complete": false,
+      "id": 2
+    }
+  ]
+}
